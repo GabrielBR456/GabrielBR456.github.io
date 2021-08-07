@@ -1,0 +1,40 @@
+body {
+ background-color: rgb(255,248,220) ;
+}
+
+p {
+font-family: Verdana, sans-serif;
+}
+
+.textin {
+  display: inline block;
+}
+
+.imagem4 {
+  width: 1200px;
+}
+
+.jogo2 {
+  font-size: 30px;
+}
+
+.imagem6 {
+  width: 1200px;
+}
+
+.jogo1 {
+  font-size: 30px;
+}
+
+.imagem8 {
+  width: 1200px;
+}
+
+.jogo3 {
+  font-size: 30px;
+}
+
+.clipzin {
+  float: right;
+  width: 800px;
+}
